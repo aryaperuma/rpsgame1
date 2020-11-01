@@ -1,1 +1,1 @@
-# rpsgame1
+# rpsgame
