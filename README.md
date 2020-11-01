@@ -1,1 +1,1 @@
-# rpsgame
+# aryaperuma.rpsgame
